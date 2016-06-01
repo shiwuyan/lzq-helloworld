@@ -1,2 +1,2 @@
 # lzq-helloworld
-itishelloworldprojectjustforlzq
+it is helloworld project just for lzq 
